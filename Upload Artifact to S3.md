@@ -5,7 +5,7 @@
 ## Permission
   1. provide S3 full accessess
   2.For user permission
-     1. create user in iam section 
-     2.create accessess key and secrete key
-     3.provide s3 full access to user
+     a. create user in iam section 
+     b.create accessess key and secrete key
+     c.provide s3 full access to user
   
